@@ -2,7 +2,7 @@
 
 ## Desenvolvimento SPA com Angular ##
 
-### Introdução, Controllers, Models, Views e Razor, Entity Framework, Formulários e uma Aplicação Funcional. ###
+### Demontração de uma aplicação web que carrega uma única página HTML e atualiza dinamicamente o conteúdo da página conforme o usuário interage com a aplicação. ###
 
 ##### Obs: * Projeto destinado exclusivamente para fins de estudo * #####
  
