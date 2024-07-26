@@ -1,6 +1,6 @@
 # SPA com Angular #
 
-## Single Page Application (SPA) ##
+## Desenvolvimento SPA com Angular ##
 
 ### Introdução, Controllers, Models, Views e Razor, Entity Framework, Formulários e uma Aplicação Funcional. ###
 
