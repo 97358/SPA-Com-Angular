@@ -4,7 +4,7 @@
 
 📝 **Nota:** Demontração de uma aplicação web que carrega uma única página HTML e atualiza dinamicamente o conteúdo da página conforme o usuário interage com a aplicação.
 
-🔧 **Versão** Ajustes na configuração do build
+🔧 **Versão**
 
 ⚠️ **Atenção:** Destinado exclusivamente para fins de estudo.
 
